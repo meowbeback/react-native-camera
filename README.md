@@ -1,4 +1,8 @@
+
 Third commit in branch2
+and
+Third modification in branch1
+
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
